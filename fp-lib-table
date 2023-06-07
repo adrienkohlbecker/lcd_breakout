@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name lcd)(type KiCad)(uri ${KIPRJMOD}/lcd.pretty)(options "")(descr ""))
+  (lib (name "lcd_breakout")(type "KiCad")(uri "${KIPRJMOD}/lcd_breakout.pretty")(options "")(descr ""))
 )
